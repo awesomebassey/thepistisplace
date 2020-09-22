@@ -1,0 +1,6 @@
+[30-Jul-2020 20:55:57 Africa/Lagos] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 55
+[30-Jul-2020 21:08:26 Africa/Lagos] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, boolean given in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 54
+[30-Jul-2020 21:19:10 Africa/Lagos] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 40
+[30-Jul-2020 21:25:07 Africa/Lagos] PHP Fatal error:  Only variables can be passed by reference in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 40
+[30-Jul-2020 21:26:13 Africa/Lagos] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 41
+[30-Jul-2020 21:32:06 Africa/Lagos] PHP Warning:  mysqli_stmt_bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/newwaved/test.newwavedigitalschool.com/thepistisplace/add/index.php on line 34
